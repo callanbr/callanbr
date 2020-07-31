@@ -1,4 +1,4 @@
-[![Hello 🍀](https://i.imgur.com/AXzzYfw.png)][1]
+[![Hello 🍀](https://i.imgur.com/tS8oHiv.png)][1]
 
 Hello!,
 
