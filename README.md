@@ -7,11 +7,11 @@ I am Software Engineer with OCD. I spend my time teaching code and developing pr
 
 ## 📬 Talk with me
 
-- Email: [christopher@callanbr.com][3]
+- Email: [callanbrg@gmail.com][3]
 - LinkedIn: [linkedin.com/in/callanbr/][2]
 - Web: [callanbr.com][1]
 
 
 [1]: https://www.callanbr.com
 [2]: https://www.linkedin.com/in/callanbr
-[3]: mailto:christopher@callanbr.com
+[3]: mailto:callanbrg@gmail.com
