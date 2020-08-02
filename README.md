@@ -1,6 +1,6 @@
-<a href="https://www.callanbr.com" target="_blank"><img src="https://i.imgur.com/TmyweE2.gif" align="center" alt="portfolio" width="1200" height="auto"></a>
+<a href="https://www.callanbr.com" target="_blank"><img src="https://i.imgur.com/LYDXz97.gif" align="center" alt="portfolio" width="1200" height="auto"></a>
 
-<!-- [![Hello 🍀](https://i.imgur.com/TmyweE2.gif)][1] -->
+<!-- [![Hello 🍀](https://i.imgur.com/LYDXz97.gif)][1] -->
 
 Hello! 🍀
 
@@ -8,10 +8,10 @@ I am Software Engineer with OCD. I spend my time teaching code and developing pr
 
 ## 📬 Talk with me
 
--  Email: [callanbrg@gmail.com][3]
+-  Email: [christopher@callanbr.com][3]
 -  LinkedIn: [linkedin.com/in/callanbr/][2]
 -  Web: [callanbr.com][1]
 
 [1]: https://www.callanbr.com
 [2]: https://www.linkedin.com/in/callanbr
-[3]: mailto:callanbrg@gmail.com
+[3]: mailto:christopher@callanbr.com
