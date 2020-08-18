@@ -14,4 +14,4 @@ I am Software Engineer with OCD. I spend my time teaching code and developing pr
 
 [1]: https://www.callanbr.com
 [2]: https://www.linkedin.com/in/callanbr
-[3]: mailto:christopher@callanbr.com
+[3]: mailto:callanbrg@gmail.com
