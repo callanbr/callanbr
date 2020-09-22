@@ -4,7 +4,7 @@
 
 Hello! 🍀
 
-I am Software Engineer with OCD. I spend my time teaching code and developing projects I have a passion for. Have a great idea? Let me know! [callanbr.com][1]
+I spend my time teaching code and developing projects I have a passion for. Have a great idea? Let me know! [callanbr.com][1]
 
 ## 📬 Talk with me
 
