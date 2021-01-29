@@ -4,7 +4,7 @@
 
 Hello! 🍀
 
-I'm happily married and the proud father of many children. Education in finances and tech are very important to me and has made a huge impact in my life. I spent time in the military learning leadership and assisting with tech / data management. Later, I started my own accounting and tax business where I focuses on consultation and financial management for small businesses. I have since sold the accounting part of my business to focus on software engineering. Have a great idea? Let me know! [callanbr.com][1]
+I'm happily married and proud father. Education in finances and tech are very important to me and has made a huge impact in my life. I spent time in the military learning leadership and assisting with tech / data management. Later, I started my own accounting and tax business where I focuses on consultation and financial management for small businesses. I have since sold the accounting part of my business to focus on software engineering. Have a great idea? Let me know! [callanbr.com][1]
 
 ## 📬 Talk with me
 
