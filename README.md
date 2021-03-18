@@ -8,10 +8,10 @@ I'm happily married and proud father. Education in finances and tech are very im
 
 ## 📬 Talk with me
 
--  [Email][3]
--  [LinkedIn][2]
--  [Website][1]
--  [Twitter][4]
+  - ✉️ [Email][3]
+  - 🏢 [LinkedIn][2]
+  - 💻 [Website][1]
+  - 🐦 [Twitter][4]
 
 [1]: https://www.callanbr.com
 [2]: https://www.linkedin.com/in/callanbr
